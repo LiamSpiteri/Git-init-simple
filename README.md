@@ -1,1 +1,1 @@
-# Git-init-simple
+# git-init-simple
